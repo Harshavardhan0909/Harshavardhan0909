@@ -1,71 +1,159 @@
-👋 Hi, I'm Harshavardhan K
+<h1 align="center">Hi 👋, I'm Harshavardhan K</h1>
+<h3 align="center">🚀 Building Intelligent Systems | 🧠 BCI + AI | ⚙️ Real-World Problem Solver</h3>
 
-🎓 B.Tech Student | 🤖 Machine Learning Enthusiast | 🧠 BCI Researcher | 💻 Full Stack Developer
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-I build intelligent systems at the intersection of AI, Brain-Computer Interfaces, and real-world applications. My work focuses on transforming complex data (like EEG signals) into meaningful insights using deep learning and signal processing.
+---
 
-🚀 About Me
-🔬 Working on Brain Disease Classification using EEG (BCI Project)
-🧠 Interested in Neural Signal Processing, Deep Learning, and Explainable AI
-📊 Experienced in Data Analysis, ML Pipelines, and Dashboard Systems
-💡 Exploring AI-powered applications and real-time systems
-🎯 Goal: Build impactful AI systems for healthcare and human-computer interaction
-🛠️ Tech Stack
+## 🧠 Who Am I?
 
-Languages
+I don’t just build projects — I design **systems that think, adapt, and scale**.
 
-Python, C++, JavaScript
+- 🧠 Working on **Brain-Computer Interfaces (EEG → AI pipelines)**
+- ⚡ Building **real-time intelligent applications**
+- 🎯 Focused on **ML + Systems + Product thinking**
+- 🔬 Turning **raw signals → meaningful predictions**
+- 🏗️ Strong interest in **AI infrastructure & reliability**
 
-Machine Learning & AI
+---
 
-PyTorch, TensorFlow, Scikit-learn
-CNNs, ConvNeXt, DQN (Deep Q Learning)
-Signal Processing (FFT, PCA, ICA, CSP)
+## 🚀 What I’ve Built
 
-Data & Visualization
+### 🧠 Brain Disease Classification (BCI System)
+> *End-to-end EEG intelligence pipeline*
 
-Pandas, NumPy, Matplotlib, Seaborn
+- Processed raw EEG (500Hz, 19-channel clinical data)
+- Pipeline:- Custom **EEGConvNeXt architecture**
+- Explainability with **Grad-CAM heatmaps**
+- Multi-class classification:
+- Alzheimer’s (AD)
+- Frontotemporal Dementia (FTD)
+- Control
 
-Web & Tools
+⚡ **Impact:** Converts brain signals into diagnosable insights
 
-React.js, Node.js
-Git, GitHub, Kaggle
-📌 Featured Projects
-🧠 Brain Disease Classification (BCI)
-Built an end-to-end pipeline for EEG signal processing:
-FFT → Filtering → Normalization → PCA → ICA → CSP
-Converted EEG signals into CWT images
-Trained a custom EEGConvNeXt model
-Integrated Grad-CAM for explainability
-Classified:
-Alzheimer's Disease
-Frontotemporal Dementia
-Healthy Controls
-📊 Indian Premier League Analysis & Prediction
-Performed data analysis on IPL datasets
-Built predictive models for match outcomes
-Visualized player and team performance trends
-🎨 AI-Based Personalized Color Suggestion System
-Used Deep Q Learning (DQN) with webcam input
-Recognized face & gestures
-Suggested personalized colors dynamically
-📡 System Monitoring & Alerting Dashboard
-Built a real-time monitoring system
-Tracks system metrics and triggers alerts
-Focus on reliability and observability
-📈 Current Work
-🔍 Enhancing EEG classification with better architectures
-⚡ Optimizing ML pipelines with augmentation & scheduling
-📊 Improving explainability using Grad-CAM
-🤝 Preparing for AI/ML and SRE internships
-🏆 Achievements
-Built multiple end-to-end ML systems from scratch
-Hands-on experience with real-world EEG datasets (OpenNeuro)
-Strong understanding of signal processing + deep learning integration
-📫 Connect With Me
-💼 LinkedIn: [Add your link]
-🧑‍💻 GitHub: https://github.com/your-username
-📧 Email: [Add your email]
-⚡ Fun Fact
+---
 
-I enjoy turning raw brain signals into intelligent predictions — basically teaching machines to understand the human brain 🧠
+### 🎮 P2P Gaming Marketplace
+> *Decentralized-style platform for gamers*
+
+- Built a platform for:
+- 🎯 Player-to-player trading
+- 💰 Asset exchange & listings
+- 🔐 Secure transaction flow
+- Focus:
+- Scalability
+- Real-time interactions
+- Marketplace logic design
+
+⚡ **Impact:** Enables gamer-driven economies
+
+---
+
+### 🎨 AI Personalized Color Recommendation System
+> *Reinforcement Learning meets Computer Vision*
+
+- Webcam-based face + gesture recognition
+- Used **Deep Q Learning (DQN)** for personalization
+- Real-time adaptive suggestions
+
+⚡ **Impact:** Dynamic user-specific recommendations
+
+---
+
+### 📊 IPL Data Analysis & Prediction Engine
+> *Sports analytics with predictive modeling*
+
+- Analyzed historical IPL data
+- Built ML models for:
+- Match prediction
+- Player performance insights
+- Visual dashboards for decision-making
+
+⚡ **Impact:** Data-driven sports intelligence
+
+---
+
+### 📡 System Monitoring & Alerting Dashboard
+> *SRE-focused observability system*
+
+- Tracks system health metrics
+- Real-time alerts & logging
+- Designed for:
+- Reliability
+- Failure detection
+- Debugging efficiency
+
+⚡ **Impact:** Improves system uptime & visibility
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 👨‍💻 Languages
+`Python` `C++` `JavaScript`
+
+### 🤖 AI / ML
+`PyTorch` `TensorFlow` `Scikit-learn`  
+`CNNs` `ConvNeXt` `DQN`  
+
+### 🧠 Signal Processing
+`FFT` `PCA` `ICA` `CSP` `Wavelets (CWT)`
+
+### 🌐 Development
+`React.js` `Node.js` `REST APIs`
+
+### 📊 Data
+`Pandas` `NumPy` `Matplotlib`
+
+### ⚙️ Tools
+`Git` `GitHub` `Kaggle`
+
+---
+
+## 📈 Current Focus
+
+- 🧠 Improving EEG model accuracy + explainability
+- ⚡ Optimizing training (LR schedulers, augmentation)
+- 🔍 Exploring **real-time AI systems**
+- 🏗️ Preparing for **ML / SRE / Systems roles**
+
+---
+
+## 🏆 Why Me?
+
+- I build **end-to-end systems**, not isolated models  
+- I understand both **theory + implementation**  
+- I focus on **real-world usability, not just accuracy**  
+- I can explain complex systems simply (important for teams)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: (https://linkedin.com/in/k-harshavardhan)
+- 📧 Email: harshakorlepara04@gmail.com
+- 🧑‍💻 GitHub: (https://github.com/Harshavardhan0909)
+
+---
+
+## ⚡ Philosophy
+
+> “Don’t just train models. Build systems that **learn, explain, and scale**.”
+
+---
+
+⭐ If you like my work, consider starring my repositories!
