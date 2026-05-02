@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Building Intelligent Systems | 🧠 BCI + AI | ⚙️ Real-World Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Harshavardhan0909">
     <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
@@ -136,8 +136,8 @@ I don’t just build projects — I design **systems that think, adapt, and scal
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Harshavardhan0909&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavardhan0909&theme=radical" />
 </p>
 
 ---
