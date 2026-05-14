@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshavardhan K</h1>
+<h1 align="center">Hi 👋, I'm Harshavardhan Korlepara</h1>
 <h3 align="center">🚀 Building Intelligent Systems | 🧠 BCI + AI | ⚙️ Real-World Problem Solver</h3>
 
 <p align="center">
