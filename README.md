@@ -133,17 +133,7 @@ Passionate about building scalable web applications and intelligent AI-powered s
 # 📊 GitHub Stats & Activity
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harshavardhan0909&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshavardhan0909&theme=radical&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshavardhan0909&layout=compact&theme=radical&hide_border=true" />
-
+  <img height="180em" src="https://streak-stats.demolab.com?user=Harshavardhan0909&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -151,9 +141,8 @@ Passionate about building scalable web applications and intelligent AI-powered s
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harshavardhan0909&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshavardhan0909&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
-
 ---
 
 # 📈 Contribution Graph
