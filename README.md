@@ -1,139 +1,136 @@
 <h1 align="center">Hi 👋, I'm Harshavardhan Korlepara</h1>
-<h3 align="center">🚀 Building Intelligent Systems | 🧠 BCI + AI | ⚙️ Real-World Problem Solver</h3>
+
+<h3 align="center">
+🚀 Full Stack Developer | 🤖 AI & Data Enthusiast | ⚡ Building Scalable Intelligent Systems
+</h3>
 
 <p align="center">
   <a href="https://github.com/Harshavardhan0909">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=Harshavardhan0909&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🚀 About Me
 
-I don’t just build projects — I design **systems that think, adapt, and scale**.
+Passionate about building scalable web applications and intelligent AI-powered systems.
 
-- 🧠 Working on **Brain-Computer Interfaces (EEG → AI pipelines)**
-- ⚡ Building **real-time intelligent applications**
-- 🎯 Focused on **ML + Systems + Product thinking**
-- 🔬 Turning **raw signals → meaningful predictions**
-- 🏗️ Strong interest in **AI infrastructure & reliability**
-
----
-
-## 🚀 What I’ve Built
-
-### 🧠 Brain Disease Classification (BCI System)
-> *End-to-end EEG intelligence pipeline*
-
-- Processed raw EEG (500Hz, 19-channel clinical data)
-- Pipeline:- Custom **EEGConvNeXt architecture**
-- Explainability with **Grad-CAM heatmaps**
-- Multi-class classification:
-- Alzheimer’s (AD)
-- Frontotemporal Dementia (FTD)
-- Control
-
-⚡ **Impact:** Converts brain signals into diagnosable insights
+- 🌐 Full Stack Developer focused on modern web technologies
+- 🤖 Interested in AI Systems, Machine Learning & Data Analytics
+- ⚡ Building real-world applications with scalable architectures
+- 📊 Exploring Data Science and predictive analytics
+- 🧠 Enthusiastic about intelligent automation & AI-driven products
 
 ---
 
-### 🎮 P2P Gaming Marketplace
-> *Decentralized-style platform for gamers*
-
-- Built a platform for:
-- 🎯 Player-to-player trading
-- 💰 Asset exchange & listings
-- 🔐 Secure transaction flow
-- Focus:
-- Scalability
-- Real-time interactions
-- Marketplace logic design
-
-⚡ **Impact:** Enables gamer-driven economies
-
----
-
-### 🎨 AI Personalized Color Recommendation System
-> *Reinforcement Learning meets Computer Vision*
-
-- Webcam-based face + gesture recognition
-- Used **Deep Q Learning (DQN)** for personalization
-- Real-time adaptive suggestions
-
-⚡ **Impact:** Dynamic user-specific recommendations
-
----
-
-### 📊 IPL Data Analysis & Prediction Engine
-> *Sports analytics with predictive modeling*
-
-- Analyzed historical IPL data
-- Built ML models for:
-- Match prediction
-- Player performance insights
-- Visual dashboards for decision-making
-
-⚡ **Impact:** Data-driven sports intelligence
-
----
-
-### 📡 System Monitoring & Alerting Dashboard
-> *SRE-focused observability system*
-
-- Tracks system health metrics
-- Real-time alerts & logging
-- Designed for:
-- Reliability
-- Failure detection
-- Debugging efficiency
-
-⚡ **Impact:** Improves system uptime & visibility
-
----
-
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-`Python` `C++` `JavaScript`
+`Python` `JavaScript` `C++`
+
+### 🌐 Web Development
+`React.js` `Node.js` `Express.js` `MongoDB`
+`REST APIs` `GraphQL`
 
 ### 🤖 AI / ML
-`PyTorch` `TensorFlow` `Scikit-learn`  
-`CNNs` `ConvNeXt` `DQN`  
+`PyTorch` `TensorFlow` `Scikit-learn`
+`RAG` `Groq API`
 
-### 🧠 Signal Processing
-`FFT` `PCA` `ICA` `CSP` `Wavelets (CWT)`
+### 📊 Data Analytics
+`Pandas` `NumPy` `Matplotlib` `Power BI` `SQL`
 
-### 🌐 Development
-`React.js` `Node.js` `REST APIs`
-
-### 📊 Data
-`Pandas` `NumPy` `Matplotlib`
-
-### ⚙️ Tools
-`Git` `GitHub` `Kaggle`
+### ⚙️ Tools & Platforms
+`Docker` `Redis` `Git` `GitHub`
+`Streamlit` `Cloudflare Workers AI`
 
 ---
 
-## 📈 Current Focus
+# 🚀 Featured Projects
 
-- 🧠 Improving EEG model accuracy + explainability
-- ⚡ Optimizing training (LR schedulers, augmentation)
-- 🔍 Exploring **real-time AI systems**
-- 🏗️ Preparing for **ML / SRE / Systems roles**
+## 🎮 Online P2P Gaming Marketplace
+> Player-to-player gaming marketplace platform
 
----
+- 🎯 Digital asset trading system
+- 💰 Marketplace listing & transaction flow
+- ⚡ Real-time interactions
+- 🌐 Scalable frontend architecture
 
-## 🏆 Why Me?
-
-- I build **end-to-end systems**, not isolated models  
-- I understand both **theory + implementation**  
-- I focus on **real-world usability, not just accuracy**  
-- I can explain complex systems simply (important for teams)
+**Tech:** React.js, Node.js, MongoDB
 
 ---
 
-## 📊 GitHub Stats
+## 🏏 IPL Prediction & Analytics
+> Machine Learning powered IPL prediction system
+
+- 📊 Historical IPL data analysis
+- 🤖 Match prediction models
+- 📈 Performance analytics dashboards
+- 🔍 Data-driven insights
+
+**Tech:** Python, Pandas, Scikit-learn
+
+---
+
+## 🛒 Blinkit Dashboard
+> Interactive business analytics dashboard
+
+- 📊 Sales & performance visualization
+- 📈 Business intelligence insights
+- 🎯 KPI tracking dashboard
+- 📉 Data analysis & reporting
+
+**Tech:** Power BI, Excel
+
+---
+
+## 🤖 AI Chatbot using RAG + Groq + Streamlit
+> Retrieval-Augmented AI assistant
+
+- 🧠 Context-aware AI responses
+- 📄 Document-based question answering
+- ⚡ Fast inference using Groq
+- 🌐 Interactive Streamlit interface
+
+**Tech:** Python, Streamlit, RAG, Groq API
+
+---
+
+## ☁️ EdgeMind — Cloudflare AI Application
+> AI-powered edge application using Cloudflare Workers AI
+
+- ⚡ Edge-based AI processing
+- 🌐 Fast and scalable deployment
+- 🤖 Intelligent AI interactions
+- 🔥 Optimized cloud performance
+
+**Tech:** JavaScript, Cloudflare Workers AI
+
+---
+
+## 🎙️ Voice AI System
+> AI-powered voice interaction system
+
+- 🎤 Voice input & processing
+- 🤖 AI-based conversational responses
+- ⚡ Real-time interaction workflow
+- 🧠 Intelligent speech handling
+
+**Tech:** Python, JavaScript
+
+---
+
+# 📈 Current Focus
+
+- ⚡ Building scalable AI-powered applications
+- 🌐 Advanced Full Stack Development
+- 🤖 Exploring RAG & Generative AI systems
+- 📊 Data Analytics & Visualization
+- ☁️ Cloud & Edge AI applications
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Harshavardhan0909&show_icons=true&theme=radical" />
@@ -142,17 +139,17 @@ I don’t just build projects — I design **systems that think, adapt, and scal
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect With Me
 
-- 💼 LinkedIn: (https://linkedin.com/in/k-harshavardhan)
+- 💼 LinkedIn: https://linkedin.com/in/k-harshavardhan
 - 📧 Email: harshakorlepara04@gmail.com
-- 🧑‍💻 GitHub: (https://github.com/Harshavardhan0909)
+- 🧑‍💻 GitHub: https://github.com/Harshavardhan0909
 
 ---
 
-## ⚡ Philosophy
+# ⚡ Philosophy
 
-> “Don’t just train models. Build systems that **learn, explain, and scale**.”
+> “Build technology that solves real-world problems and creates meaningful impact.”
 
 ---
 
