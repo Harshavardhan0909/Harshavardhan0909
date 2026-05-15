@@ -27,7 +27,7 @@ Passionate about building scalable web applications and intelligent AI-powered s
 # 🛠️ Tech Stack
 
 ### 👨‍💻 Languages
-`Python` `JavaScript` `C++`
+`Python` `JavaScript` `C` `Java`
 
 ### 🌐 Web Development
 `React.js` `Node.js` `Express.js` `MongoDB`
